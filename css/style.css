@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(250, 239, 241);
+}
+span{
+    background-color: rgb(222, 206, 237);
+    border-radius: 5px;
+    margin-top: 100px;
+}
+.carousel-inner {
+    height: 450px;
+    margin-top: 2px;
+}
+.carousel-indicators {
+    margin-bottom: 50px;
+}
+.card-content {
+    display: flex;
+    justify-content: space-between;
+}
+footer {
+    background-color: #8a519049;
+    color: rgb(102, 83, 108);
+    padding: 10px;
+    margin-top: 20px;
+    font-size: xx-small;
+    bottom: 0;
+    width: 100%;
+  }
+.social-links {
+    margin-top: 5px;
+}
+
+.social-links a {
+    color: rgb(102, 83, 108);
+    margin-right: 10px;
+    text-decoration: none;
+}
+select {
+    background-color: rgb(241, 233, 242);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+option {
+    font-family: Arial, Helvetica, sans-serif;
+}
